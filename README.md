@@ -29,14 +29,39 @@ de um programa que um antigo colaborador da empresa fez (e como ele não se enco
 Lista de desenvolvimento:
 
 - [x] Painel de controle
-- [x] Botôes funcionais
+
+![painel de controle](https://github.com/user-attachments/assets/af5ef32a-c2e3-4dc0-a4d5-899618a4c2c9)
+
+- [x] Botões funcionais
 - [x] Aba de menu criada
+
+![menu1](https://github.com/user-attachments/assets/ba4d4291-a76d-463d-8dca-eba1518e7766)
+![menu2](https://github.com/user-attachments/assets/d6888478-d332-40d8-b523-c6cdfe3ce019)
+![menu3](https://github.com/user-attachments/assets/29b11a99-8273-46f1-8c70-a2b90afa9220)
+
 - [x] Painel de senhas
-- [x] Layout da guia "Home" montado
+
+![painel de senhas](https://github.com/user-attachments/assets/41629b1d-11e8-4e2c-add5-73f2704f89ad)
+![chamadascliente](https://github.com/user-attachments/assets/d7f0ba37-b6c9-4d82-b8dd-27d6929931ec)
+
 - [x] Validação para limpar o painel
+
+![zerarpainel](https://github.com/user-attachments/assets/e92b4224-4bf9-4286-9eab-cb8e10c0b547)
+![senhaincorreta](https://github.com/user-attachments/assets/af985669-5fe1-4772-b414-c90f235dbe60)
+
 - [x] Possibilidade de informar cliente na chamada (e também de limpar o campo inserido caso não queira mais chamar)
+
+![informarcliente](https://github.com/user-attachments/assets/be0571c9-daa3-47ab-badb-1e74bf2dbec6)
+![chamadaccliente](https://github.com/user-attachments/assets/b7456b2b-91a0-4242-a0c6-3fab6779f81b)
+
 - [x] Possibilidade de repetir senha (com ou sem cliente)
+
+![repetircomcliente](https://github.com/user-attachments/assets/67f3f0a7-d6cf-4c7a-b6a4-0b714af61129)
+![repetirsemcliente](https://github.com/user-attachments/assets/534c0ad6-edf5-480b-9a74-3d540ad09cf2)
+
 - [x] "Relatório" de senhas chamadas
+
+![relatoriosenhas](https://github.com/user-attachments/assets/baad1f2c-e572-4ff5-a717-c97844f45ef6)
 
 # Como executar o projeto
 
