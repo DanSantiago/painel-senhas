@@ -3,8 +3,8 @@
 
 # Composição do projeto
 - painel.py: é o único arquivo python do programa
-- monitor.ico é o ícone do programa
-- Chamada e repetir são os sons utilizados
+- monitor.ico é o arquivo de ícone do programa
+- Chamada e repetir são os arquivos de sons utilizados
 
 # Sobre o projeto
 
