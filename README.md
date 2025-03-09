@@ -44,7 +44,7 @@ Lista de desenvolvimento:
 ![painel de senhas](https://github.com/user-attachments/assets/41629b1d-11e8-4e2c-add5-73f2704f89ad)
 ![chamadascliente](https://github.com/user-attachments/assets/d7f0ba37-b6c9-4d82-b8dd-27d6929931ec)
 
-- [x] Validação para limpar o painel
+- [x] Validação para limpar o painel (a senha é adminadmin)
 
 ![zerarpainel](https://github.com/user-attachments/assets/e92b4224-4bf9-4286-9eab-cb8e10c0b547)
 ![senhaincorreta](https://github.com/user-attachments/assets/af985669-5fe1-4772-b414-c90f235dbe60)
